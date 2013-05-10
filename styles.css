@@ -19,6 +19,11 @@ li {
 }
 .navigation {
 	background-color: #F2E9D8;
+	margin-right: 40px;
+	padding-top: 10px;
+	padding-right: 30px;
+	padding-bottom: 10px;
+	padding-left: 30px;
 }
 
 h1 {
