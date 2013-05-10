@@ -26,12 +26,14 @@ h1 {
 	font-size: 50px;
 	font-style: italic;
 	font-weight: bolder;
-	margin-top: 20px;
-	margin-right: 350px;
-	margin-bottom: 20px;
-	margin-left: 350px;
 	text-align: center;
 	background-color: #F2E9D8;
+	float: none;
+	width: 500px;
+	margin-top: 10px;
+	margin-right: 10px;
+	margin-bottom: 10px;
+	margin-left: 10px;
 }
 .wrapper {
 	background-color: #F2E9D8;
