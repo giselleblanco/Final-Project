@@ -4,10 +4,6 @@ li {
 	height: 20px;
 	width: 120px;
 	border: thin solid #000;
-	margin-top: 5px;
-	margin-right: 66px;
-	margin-bottom: 5px;
-	margin-left: 66px;
 	list-style-type: none;
 	list-style-image: none;
 	padding-top: 0px;
@@ -16,6 +12,10 @@ li {
 	padding-left: 5px;
 	text-align: center;
 	background-color: #F2E9D8;
+	margin-top: 5px;
+	margin-right: 50px;
+	margin-bottom: 5px;
+	margin-left: 50px;
 }
 .navigation {
 	background-color: #F2E9D8;
@@ -28,7 +28,7 @@ li {
 
 h1 {
 	font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
-	font-size: 50px;
+	font-size: 52px;
 	font-style: italic;
 	font-weight: bolder;
 	text-align: center;
@@ -36,10 +36,14 @@ h1 {
 	float: none;
 	width: 500px;
 	margin-top: 10px;
-	margin-right: 350px;
+	margin-right: 250px;
 	margin-bottom: 10px;
-	margin-left: 350px;
+	margin-left: 250px;
 	vertical-align: middle;
+	padding-top: 10px;
+	padding-right: 5px;
+	padding-bottom: 10px;
+	padding-left: 5px;
 }
 .wrapper {
 	background-color: #F2E9D8;
@@ -47,10 +51,10 @@ h1 {
 	border-right-width: 2px;
 	border-bottom-width: 10px;
 	border-left-width: 2px;
-	margin-top: 10px;
-	margin-right: 50px;
-	margin-bottom: 10px;
-	margin-left: 50px;
+	margin-top: 0px;
+	margin-right: 100px;
+	margin-bottom: 0px;
+	margin-left: 100px;
 	border-top-style: solid;
 	border-right-style: solid;
 	border-bottom-style: solid;
@@ -59,6 +63,7 @@ h1 {
 	border-right-color: #F2E9D8;
 	border-bottom-color: #F2E9D8;
 	border-left-color: #F2E9D8;
+	padding: 10px;
 }
 
 body {
