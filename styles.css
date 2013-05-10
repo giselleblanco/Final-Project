@@ -25,6 +25,11 @@ li {
 	padding-bottom: 10px;
 	padding-left: 30px;
 }
+#a {
+	font-family: Georgia, "Times New Roman", Times, serif;
+	color: #000;
+}
+
 
 h1 {
 	font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
