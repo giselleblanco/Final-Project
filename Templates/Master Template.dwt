@@ -1,0 +1,31 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<!-- TemplateBeginEditable name="doctitle" -->
+<title>An American in Paris</title>
+<!-- TemplateEndEditable -->
+<!-- TemplateBeginEditable name="head" -->
+<!-- TemplateEndEditable -->
+<link href="../styles.css" rel="stylesheet" type="text/css" />
+</head>
+
+	<body>
+		<div class="wrapper">
+				<ul class="navigation">
+					<li><strong> Home </strong></li>
+					<li><strong> Cannes</strong></li>
+					<li><strong> Paris </strong></li>
+					<li><strong> Weekend Trips </strong></li>
+					</ul>
+			</div>
+		<div class="content">
+			<h1> An American in Paris </h1>
+				<!-- TemplateBeginEditable name="content" -->content<!-- TemplateEndEditable -->
+			</div>
+			
+			<div class="footer">
+			</div>
+		</div>	
+	</body>
+</html>
